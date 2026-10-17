@@ -1,0 +1,132 @@
+[
+ {
+  "id": "aeliana",
+  "name": "Kindra",
+  "color": "#ff2d0a",
+  "story": [
+   "Kindra was a knight of the Solar Order. During an attack, she left her gate to open a sealed street and save the people inside. The street was saved, but the gate fell. The Order blamed her and took away her rank.",
+   "She now carries a broken gate key made into a sword. She wants to find out why the gate lost power before the attack. She is kind and brave, but finds it hard to leave a fight, even when staying will hurt the people she wants to protect."
+  ],
+  "sky": "#37261c",
+  "ground": "#37261c",
+  "accent": "#fabe55",
+  "scene_ground": "#37261c"
+ },
+ {
+  "id": "kaminari",
+  "name": "Fulgur",
+  "color": "#338cff",
+  "story": [
+   "Fulgur trapped a storm in his family's sword to stop a fleet of raiders. He saved their prisoners, but the storm spread into the city's power lines. Now each blackout reminds him of the deal he made.",
+   "He travels between failing power stations, trying to return the stolen energy before the storm takes it from people. He is polite and careful with his words, but becomes impatient when others treat power as harmless."
+  ],
+  "sky": "#121f51",
+  "ground": "#101b49",
+  "accent": "#7885b8",
+  "scene_ground": "#101b49"
+ },
+ {
+  "id": "frostbane",
+  "name": "Kald",
+  "color": "#33d8ff",
+  "story": [
+   "Kald guarded a mountain shelter built over an old cooling engine. When the engine failed, he put its ice core inside his own body to stop the shelter from burning. Everyone escaped, but the ice trapped him at the door.",
+   "Years later, workers found him still holding it shut. He now searches for the families of the people he saved. He wants a home where nobody has to give their life to keep the door open."
+  ],
+  "sky": "#12355b",
+  "ground": "#2a4f74",
+  "accent": "#a2c2e0",
+  "scene_ground": "#3c6fa2"
+ },
+ {
+  "id": "ironclad",
+  "name": "Anvil",
+  "color": "#d88c33",
+  "story": [
+   "Anvil was built to guard the city's reserves. When a flood trapped people outside the vault, he broke its locks and used the reserves to power rescue engines. The city has called him stolen equipment ever since.",
+   "He wants people to see that keeping someone safe matters more than keeping property safe. He is patient, polite and sometimes takes words too literally. His mistake is caring so little about his own safety that he may die trying to save someone he could have helped another way."
+  ],
+  "sky": "#261912",
+  "ground": "#583e2b",
+  "accent": "#d1ac7b",
+  "scene_ground": "#583e2b"
+ },
+ {
+  "id": "cipher",
+  "name": "Moth",
+  "color": "#ff26cc",
+  "story": [
+   "Moth made false travel passes for people trapped in Nexora. Each rescue cost her part of her own record. One day she found her family listed among people she was accused of betraying. She broke into the records, destroyed her trail and disappeared.",
+   "She wants the first, unchanged list of names. She hopes it will clear her family, but fears what it might say about her."
+  ],
+  "sky": "#2a132d",
+  "ground": "#26122b",
+  "accent": "#977f9c",
+  "scene_ground": "#26122b"
+ },
+ {
+  "id": "subject_zero",
+  "name": "Nil",
+  "color": "#ff143f",
+  "story": [
+   "Nil arrived in a sealed VED ship. There was no name on the passenger list. He held a violet pearl and remembered three words: “Observe. Understand. Return.”",
+   "He can copy movements before he knows what they mean. He wants to find out where he came from, and whether “return” means going home or being taken apart."
+  ],
+  "sky": "#08252b",
+  "ground": "#205657",
+  "accent": "#a0c9c4",
+  "scene_ground": "#235e5f"
+ },
+ {
+  "id": "architect",
+  "name": "Ashlar",
+  "color": "#a533ff",
+  "story": [
+   "Ashlar built Veyr's travel network after a disaster left people without food and water. Her paths helped the city recover. Later, those same paths let the city decide who was allowed to leave.",
+   "She still believes good planning can keep people safe. Her mistake is thinking she should make every choice for them."
+  ],
+  "sky": "#281a45",
+  "ground": "#332155",
+  "accent": "#9c8cb9",
+  "scene_ground": "#332155"
+ },
+ {
+  "id": "engineer",
+  "name": "Rivet",
+  "color": "#ff5919",
+  "story": [
+   "Rivet learned to build engines under Ashlar. Her first small engine let people carry power where they needed it. During production, a changed part caused a workshop accident. She saved the workers and took the blame, then found that someone had changed her plans.",
+   "She wants to build tools that anyone can own and fix. She is clever, impatient and too willing to keep working on a machine that should be left alone."
+  ],
+  "sky": "#2f1d18",
+  "ground": "#38251c",
+  "accent": "#a48b75",
+  "scene_ground": "#38251c"
+ },
+ {
+  "id": "archivist",
+  "name": "Folio",
+  "color": "#59a5ff",
+  "story": [
+   "Folio keeps the city's old records. Some pages tell different stories about the same event. He once tried to turn back time to save a witness. Instead, he made an action happen late. The witness lived, but the record proving who they were was lost.",
+   "He wants to find the first version of the city's history. He is gentle and patient, but often puts off telling people difficult truths."
+  ],
+  "sky": "#11233f",
+  "ground": "#1d3258",
+  "accent": "#8d9db6",
+  "scene_ground": "#1d3258"
+ },
+ {
+  "id": "subject99",
+  "name": "Mycel",
+  "color": "#33ff3f",
+  "story": [
+   "Mycel grew plants around Nexora's old engines. His tiny living cultures cleaned the damaged soil. When bad fuel entered the water supply, they joined with his body instead. The lab called him a failed test. Rivet built the suit that let him leave.",
+   "He wants a garden he can touch without hurting it. He is friendly and gives names to his plants. He hides signs that his suit is failing because he does not want his friends to worry."
+  ],
+  "sky": "#19291d",
+  "ground": "#3d4a33",
+  "accent": "#aebc8c",
+  "scene_ground": "#3d4a33"
+ }
+]

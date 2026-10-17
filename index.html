@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SkillBound</title>
+<meta name="description" content="SkillBound is a cute 3v3 MOBA for Android. Download it free, read the patch notes and meet the champions.">
+<meta property="og:title" content="SkillBound">
+<meta property="og:description" content="A cute 3v3 MOBA for your phone. Download it free for Android.">
+<meta property="og:image" content="https://ahmed-achtatar.github.io/skillbound/assets/share.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#37261c">
+<link rel="icon" href="favicon.png">
+<link rel="preload" href="assets/poetsen.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="stage" id="top">
+  <nav class="topbar" aria-label="Main">
+    <a class="brand" href="#top"><img src="assets/logo.webp" alt="" width="40" height="40"><span>SkillBound</span></a>
+    <ul>
+      <li><a href="#news">News</a></li>
+      <li><a href="#patch-notes">Patch notes</a></li>
+      <li><a href="#install">Install</a></li>
+      <li><a href="#community">Community</a></li>
+    </ul>
+  </nav>
+
+  <div class="stage-body">
+    <div class="pitch">
+      <h1 class="title">SkillBound</h1>
+      <p class="tagline">A cute 3v3 MOBA for your phone. Two lanes, a jungle, fog of war and ten champions to master.</p>
+      <div class="cta-row">
+        <a class="press" id="download" href="https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/install/SkillBound.apk">
+          <span class="plate cta">
+            <span class="cta-main">Download</span>
+            <span class="cta-meta">Android · <span data-version>v1.0.12</span> · <span data-size>116 MB</span></span>
+          </span>
+        </a>
+      </div>
+      <p class="cta-note">Free. Install once, and the game updates itself. <a href="#install">How to install</a></p>
+    </div>
+
+    <figure class="champion" aria-live="polite">
+      <img id="hero-art" src="assets/heroes/aeliana.webp" alt="Kindra" width="512" height="512">
+      <figcaption>
+        <span class="plate nameplate"><span id="hero-name">Kindra</span></span>
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="roster-wrap">
+    <p class="roster-label" id="roster-label">Pick a champion</p>
+    <div class="roster" id="roster" role="group" aria-labelledby="roster-label"></div>
+  </div>
+</header>
+
+<main id="main">
+  <section class="floor floor-1 lore" aria-labelledby="lore-title">
+    <div class="wrap">
+      <article class="plate panel">
+        <h2 id="lore-title"><span id="lore-name">Kindra</span>'s story</h2>
+        <div id="lore-text">
+          <p>Kindra was a knight of the Solar Order. During an attack, she left her gate to open a sealed street and save the people inside. The street was saved, but the gate fell. The Order blamed her and took away her rank.</p>
+          <p>She now carries a broken gate key made into a sword. She wants to find out why the gate lost power before the attack. She is kind and brave, but finds it hard to leave a fight, even when staying will hurt the people she wants to protect.</p>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section class="floor floor-2" id="news" aria-labelledby="news-title">
+    <div class="wrap">
+      <h2 class="section-title" id="news-title">News</h2>
+      <div class="news" id="news-list"></div>
+    </div>
+  </section>
+
+  <section class="floor floor-3" id="patch-notes" aria-labelledby="patch-title">
+    <div class="wrap">
+      <h2 class="section-title" id="patch-title">Patch notes</h2>
+      <p class="section-sub">Every update installs itself when you open the game. <span id="patch-source"></span></p>
+      <ol class="ledger" id="ledger"></ol>
+      <button class="press more" id="ledger-more" type="button" hidden><span class="plate">Show older updates</span></button>
+    </div>
+  </section>
+
+  <section class="floor floor-2" id="install" aria-labelledby="install-title">
+    <div class="wrap">
+      <h2 class="section-title" id="install-title">Install on Android</h2>
+      <ol class="steps">
+        <li class="plate step"><span class="num" aria-hidden="true">1</span><p>Open this page on your phone and tap <strong>Download</strong>.</p></li>
+        <li class="plate step"><span class="num" aria-hidden="true">2</span><p>Open <strong>SkillBound.apk</strong> from your notifications or Downloads.</p></li>
+        <li class="plate step"><span class="num" aria-hidden="true">3</span><p>If asked, allow your browser to <strong>install unknown apps</strong>.</p></li>
+        <li class="plate step"><span class="num" aria-hidden="true">4</span><p>Tap <strong>Install</strong>. If Play Protect warns you, tap <strong>Install anyway</strong>.</p></li>
+      </ol>
+      <div class="faq">
+        <details class="plate panel">
+          <summary>Do I download again for every update?</summary>
+          <p>No. The game checks for updates when it starts and installs them itself. Big updates ask you to download a new version, and your progress is kept.</p>
+        </details>
+        <details class="plate panel">
+          <summary>The game won't start or looks broken</summary>
+          <p>Tap <strong>Repair</strong> on the login screen. It removes downloaded updates and closes the game; the next start downloads a clean copy.</p>
+        </details>
+        <details class="plate panel">
+          <summary>Is there an iPhone or PC version?</summary>
+          <p>Not yet. SkillBound is Android only for now.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <section class="floor floor-1" id="community" aria-labelledby="community-title">
+    <div class="wrap community">
+      <h2 class="section-title" id="community-title">Play together</h2>
+      <p class="section-sub">Find teammates, report bugs and hear about updates first.</p>
+      <div class="cta-row">
+        <a class="press" href="https://discord.gg/U52mVQrng9" rel="noopener"><span class="plate social discord">Discord</span></a>
+        <a class="press" href="https://chat.whatsapp.com/LaTzH0alnpR0gP5s4hQNzI" rel="noopener"><span class="plate social whatsapp">WhatsApp</span></a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="floor floor-3 footer">
+  <div class="wrap">
+    <p>SkillBound · <span data-version>v1.0.12</span> · Android</p>
+    <p><a href="#top">Back to the top</a></p>
+  </div>
+</footer>
+
+<script src="app.js" defer></script>
+</body>
+</html>

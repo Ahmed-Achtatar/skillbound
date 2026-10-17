@@ -1,0 +1,218 @@
+[
+ {
+  "tag_name": "v1.0.12",
+  "published_at": "2026-10-17T06:39:57Z",
+  "body": "Interface and performance improvements.",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 686,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.12/manifest.json"
+   },
+   {
+    "name": "patch.pck",
+    "size": 8398860,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.12/patch.pck"
+   }
+  ]
+ },
+ {
+  "tag_name": "v1.0.11",
+  "published_at": "2026-10-16T06:51:56Z",
+  "body": "Fixed bugs in the interface and movement.",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 566,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.11/manifest.json"
+   },
+   {
+    "name": "patch.pck",
+    "size": 1157276,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.11/patch.pck"
+   }
+  ]
+ },
+ {
+  "tag_name": "v1.0.10",
+  "published_at": "2026-10-16T06:06:04Z",
+  "body": "Fixed a stability bug.",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 547,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.10/manifest.json"
+   },
+   {
+    "name": "patch.pck",
+    "size": 1115292,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.10/patch.pck"
+   }
+  ]
+ },
+ {
+  "tag_name": "v1.0.9",
+  "published_at": "2026-10-16T04:33:22Z",
+  "body": "New map and performance improvements.",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 402,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.9/manifest.json"
+   },
+   {
+    "name": "SkillBound.apk",
+    "size": 121850103,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.9/SkillBound.apk"
+   }
+  ]
+ },
+ {
+  "tag_name": "v1.0.7",
+  "published_at": "2026-10-16T03:04:10Z",
+  "body": "New startup screen and update improvements.",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 408,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.7/manifest.json"
+   },
+   {
+    "name": "SkillBound.apk",
+    "size": 140254499,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.7/SkillBound.apk"
+   }
+  ]
+ },
+ {
+  "tag_name": "v1.0.6",
+  "published_at": "2026-10-16T02:34:29Z",
+  "body": "Minor improvements.",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 440,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.6/manifest.json"
+   },
+   {
+    "name": "patch.pck",
+    "size": 10300,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.6/patch.pck"
+   }
+  ]
+ },
+ {
+  "tag_name": "v1.0.5",
+  "published_at": "2026-10-16T02:29:13Z",
+  "body": "Fixed a bug in the update system.",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 302,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.5/manifest.json"
+   },
+   {
+    "name": "SkillBound.apk",
+    "size": 140128593,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.5/SkillBound.apk"
+   }
+  ]
+ },
+ {
+  "tag_name": "v1.0.4",
+  "published_at": "2026-10-16T02:16:50Z",
+  "body": "Interface improvements.",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 444,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.4/manifest.json"
+   },
+   {
+    "name": "patch.pck",
+    "size": 10300,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.4/patch.pck"
+   }
+  ]
+ },
+ {
+  "tag_name": "v1.0.3",
+  "published_at": "2026-10-16T02:11:26Z",
+  "body": "Minor improvements.",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 440,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.3/manifest.json"
+   },
+   {
+    "name": "patch.pck",
+    "size": 428,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.3/patch.pck"
+   }
+  ]
+ },
+ {
+  "tag_name": "v1.0.2",
+  "published_at": "2026-10-16T02:04:25Z",
+  "body": "Update system improvements.",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 296,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.2/manifest.json"
+   },
+   {
+    "name": "SkillBound.apk",
+    "size": 140128593,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.2/SkillBound.apk"
+   }
+  ]
+ },
+ {
+  "tag_name": "v1.0.1",
+  "published_at": "2026-10-16T00:10:44Z",
+  "body": "Minor improvements.",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 440,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.1/manifest.json"
+   },
+   {
+    "name": "patch.pck",
+    "size": 1747548,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.1/patch.pck"
+   }
+  ]
+ },
+ {
+  "tag_name": "v1.0.0",
+  "published_at": "2026-10-15T07:36:40Z",
+  "body": "First friends build",
+  "assets": [
+   {
+    "name": "manifest.json",
+    "size": 288,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.0/manifest.json"
+   },
+   {
+    "name": "SkillBound.apk",
+    "size": 138879493,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/v1.0.0/SkillBound.apk"
+   }
+  ]
+ },
+ {
+  "tag_name": "install",
+  "published_at": "2026-10-15T07:36:42Z",
+  "body": "Download SkillBound.apk on your Android phone and open it to install. The game updates itself after that.",
+  "assets": [
+   {
+    "name": "SkillBound.apk",
+    "size": 121850103,
+    "browser_download_url": "https://github.com/Ahmed-Achtatar/skillbound-releases/releases/download/install/SkillBound.apk"
+   }
+  ]
+ }
+]
